@@ -32,10 +32,12 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 4) Use each output to represnt onre for differnce and the other for borrow.
 5) End the verilog program using keyword endmodule.
 ## Program:
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: NITEESH M
 RegisterNumber:  212222230098
-``` 
+```
+```
 HALF SUBTRACTOR
 
 module HalfSubtractor(A,B,Diff,Borrow);
